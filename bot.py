@@ -47,4 +47,4 @@ while True:
         send_post(story, img)
     else:
         print("Пропуск...")
-    time.sleep(2700)  # 45 минут
+    time.sleep(10)  # 45 минут
